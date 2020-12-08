@@ -1,0 +1,24 @@
+{
+  "name": "cypressmt",
+  "version": "1.0.0",
+  "description": "A few example tests",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node_modules/.bin/cypress run",
+    "open": "node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfc19/CypressMT.git"
+  },
+  "author": "Dave.Minns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfc19/CypressMT/issues"
+  },
+  "homepage": "https://github.com/cfc19/CypressMT#readme"
+}

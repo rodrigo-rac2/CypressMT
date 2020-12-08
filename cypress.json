@@ -1,0 +1,7 @@
+{
+    "baseUrl": "testurl",
+    "env":{
+        "username": "testuser",
+        "password": "testpassword"
+        }
+}
